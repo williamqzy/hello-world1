@@ -1,2 +1,9 @@
-<?php 
+<php 
 phpinfo()
+
+void main(
+  a= []
+  
+
+
+)
